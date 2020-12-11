@@ -2,7 +2,7 @@
 
 ## Summary
 
-Project Lucidity (aka.ms/projectluciditydocs) enables you to easily create a new Azure DevOps project focused on CI/CD (Continuous Integration and Continuous Delivery) for Infrastructure as Code with Terraform, an increasingly popular request from our customers & partners.
+[Project Lucidity](aka.ms/projectluciditydocs) enables you to easily create a new Azure DevOps project focused on CI/CD (Continuous Integration and Continuous Delivery) for Infrastructure as Code with Terraform, an increasingly popular request from our customers & partners.
 
 This CSE Skilling training will help participants get familiar with the template and gain the skills needed to quickly use it for building and deploying infrastructure on Azure DevOps and using Terraform.
 
