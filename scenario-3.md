@@ -10,6 +10,7 @@ The focus of this scenario is to learn to use Project Lucidity Layers. Layers of
 
 Example:
 
+```
 02-Networking
   01-Deploy Custom VNET
   02-Configure Storage Accounts.
@@ -17,10 +18,12 @@ Example:
 03-AppLayer
   01-Deploy AKS
   02-Deploy ACR
+```
 
 Note:
 
-Project Lucidity automatically configures a special layer called 01-Init. This used to configure an Azure Storage account to host Terraform Remote State. This layer is excluded from the infrastructure pipeline and used specifically by the storage init pipeline.
+* From an implementation point of view, layers and deployments are folder structure under the terraform folder of the Terraform-Code repo.
+* Project Lucidity automatically configures a special layer called 01-Init. This used to configure an Azure Storage account to host Terraform Remote State. This layer is excluded from the infrastructure pipeline and used specifically by the storage init pipeline.
 
 **Notes:**
 
