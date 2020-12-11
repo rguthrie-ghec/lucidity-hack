@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this challenge, your goal is to introduce a simple change to the terraform and see it deployed to Azure. For the sake of time, the change should be fairly simple and it’s recommended to simply go with creating a new empty resource group.
+In this scenario, the goal is to introduce a simple change to the terraform and see it deployed to Azure. For the sake of time, the change should be fairly simple and it’s recommended to simply go with creating a new empty resource group.
 
 A core focus of this challenge is ensuring the change goes through a feature branch and pull request to ensure engineering best practices are applied.
 

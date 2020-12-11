@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this challenge, your goal is to successfully launch a new Lucidity Azure DevOps project using supplied tools and to deploy the included canonical application to Azure.
+Your goal is to successfully launch a new Lucidity Azure DevOps project using supplied tools and to deploy the included canonical application to Azure.
 
 **Notes:**
 
