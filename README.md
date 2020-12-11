@@ -18,6 +18,7 @@ This CSE Skilling training will help participants get familiar with the template
 ## Scenarios
 
 * [Scenario 1: Project Set up & Initial Deployment](./scenario-1.md)
+* [Scenario 2: Pull Request Workflow](./scenario-2.md)
 
 ## References
 
