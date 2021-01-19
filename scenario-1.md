@@ -10,14 +10,6 @@ The application Docker Image is already on DockerHub and is configured in the ca
 
 A Lucidity Dev Container configuration is provided to speed up local environment set up and it’s recommended it to utilize it in a code space or through VS Code
 
-Before running the infrastructure pipeline, please go into your newly created Terraform-Code repo and make the following change.
-
-* Navigate to Terraform-Code/environment/dev
-* Edit the file dev.03_webapp.env
-* Change the value of this environment variable TF_VAR_APP_NAME=appeshopdev.
-* Instead of appeshopdev, please use a globally unique name as this will be deployed as an AppService in your Azure subscription. If the name is not unique, the deployment will fail.
-
-
 ## Success Criteria
 
 * A new Azure DevOps Project should be created.
