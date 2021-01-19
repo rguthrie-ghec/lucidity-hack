@@ -28,6 +28,8 @@ When deploying resources via the infrastructure pipeline, there are several mode
 ## Success Criteria
 
 * Change static website and only redeploy that layer.
+Note: There is no need to change the app itself. An image with a small visual change has been pushed to dockerhub, and changing the configruation to use this image will suffice. (this still requires a PR workflow.)
+https://hub.docker.com/r/hattan/eshopwebmvc/tags?page=1&ordering=last_updated
 
 ## References
 
