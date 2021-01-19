@@ -10,10 +10,9 @@ This CSE Skilling training will help participants get familiar with the template
 
 | Start   | End     | Session                            |
 |---------|---------|------------------------------------|
-|  9:00AM |  9:45AM | Kickoff & Project Lucidity Overview|
-|  9:45AM | 10:15AM | Team setup                         |
-|  9:45AM | 10:15AM | Team working session               |
-|  9:45AM | 10:15AM | Q&A / Feedback                     |
+|  8:00AM |  9:15AM | Kickoff & Project Lucidity Overview|
+|  9:15AM | 11:30AM | Team working session               |
+|  11:30AM | 12:00PM | Q&A / Feedback                     |
 
 ## Scenarios
 
