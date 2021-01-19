@@ -17,6 +17,7 @@ Before running the infrastructure pipeline, please go into your newly created Te
 * Change the value of this environment variable TF_VAR_APP_NAME=appeshopdev.
 * Instead of appeshopdev, please use a globally unique name as this will be deployed as an AppService in your Azure subscription. If the name is not unique, the deployment will fail.
 
+
 ## Success Criteria
 
 * A new Azure DevOps Project should be created.
@@ -24,8 +25,8 @@ Before running the infrastructure pipeline, please go into your newly created Te
 
 ## References
 
+* [Local Development Setup (Dev container recommended!)](https://dev.azure.com/csedevops/terraform-template-public/_git/Terraform-Pipelines?path=%2Fdocs%2FLOCAL_DEVELOPER_SETUP.MD&_a=preview)
 * [Project Lucidity Install Document](https://dev.azure.com/csedevops/terraform-template-public/_git/Terraform-Pipelines?path=%2Fdocs%2FPROJECT_INSTALLATION.md&_a=preview)
 * [Project Lucidity Install Script Flags](https://dev.azure.com/csedevops/terraform-template-public/_git/Terraform-Pipelines?path=%2Fdocs%2FINSTALL_SCRIPT_FLAGS.md&_a=preview)
-* [Lucidity Dev Container Repo](https://github.com/rguthrie-ghec/lucidity-hack)
-* [GitHub CodeSpaces](https://github.com/features/codespaces)
+* [Infrastructure Pipeline Deployment Modes](https://dev.azure.com/csedevops/terraform-template-public/_git/Terraform-Pipelines?path=%2Fdocs%2FINFRASTRUCTUREPIPELINEOPERATIONS.md&_a=preview)
 * [VS Code Dev Containers](https://code.visualstudio.com/docs/remote/containers)
