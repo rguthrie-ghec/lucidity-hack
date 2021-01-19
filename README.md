@@ -19,7 +19,8 @@ This CSE Skilling training will help participants get familiar with the template
 * [Scenario 1: Project Set up & Initial Deployment](./scenario-1.md)
 * [Scenario 2: Pull Request Workflow](./scenario-2.md)
 * [Scenario 3: Working with Layers](./scenario-3.md)
-* [Scenario 4:  Infrastructure Pipeline Deployment Modes](./scenario-4.md)
+* [Scenario 4: Infrastructure Pipeline Deployment Modes](./scenario-4.md)
+* [Scenario 5: Testing and Code Quality (optional)](./scenario-5.md)
 
 ## References
 

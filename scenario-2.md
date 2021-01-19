@@ -14,7 +14,7 @@ A core focus of this challenge is ensuring the change goes through a feature bra
 
 ## Success Criteria
 
-* A new Resource Group should be deployed to Azure.
+* A new Resource Group, with a name of your choosing, should be deployed to Azure.
 * Demonstrate that the new RG has gone through the pull request process and that the change was validated in a PR environment/pipeline before being deployed to the dev environment.
 * Optional: Use a name module to generate a unique name.
 
@@ -22,3 +22,4 @@ A core focus of this challenge is ensuring the change goes through a feature bra
 
 * [Project Lucidity PR Pipeline Scenarios](https://dev.azure.com/csedevops/terraform-template-public/_git/Terraform-Pipelines?path=%2Fdocs%2FPRPIPELINESCENARIOS.md&_a=preview)
 * [Project Lucidity Pipelines](https://dev.azure.com/csedevops/terraform-template-public/_git/Terraform-Pipelines?path=%2Fdocs%2FPIPELINES.md&_a=preview)
+* [AzureRM Naming Module](https://github.com/Azure/terraform-azurerm-naming)
